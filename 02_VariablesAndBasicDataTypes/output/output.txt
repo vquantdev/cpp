@@ -1,0 +1,31 @@
+Welcome to the Basic Datatypes Program!
+----------------
+x = 5
+y = 13
+x + y = 18
+----------------
+Age = 35
+Year = 2025
+Days = 7
+----------------
+Price = 5.99
+GPA = 3.88
+Temperature = 26.3
+----------------
+Grade = A
+Initial = B
+Currency = $
+Two Chars = D
+Three Chars = G
+----------------
+Student = 1
+Power = 1
+For sale = 0
+----------------
+Name = John
+Day = Monday
+Food = Pizza
+Address = 12 Fake St.
+----------------
+Hello, John
+You are 35 years old
