@@ -1,0 +1,5 @@
+Welcome to the Namespaces program
+---------------------------------
+x in main = 1
+x in namespaceOne = 1
+x in namespaceTwo = 2
