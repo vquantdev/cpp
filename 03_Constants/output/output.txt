@@ -1,0 +1,6 @@
+Welcome to the Constants Program!
+---------------------------------
+Circumference of a circle = 62.8318cm
+---------------------------------
+Light speed = 299792458
+Screen resolution = 1920x1080
