@@ -1,0 +1,5 @@
+Welcome to the Typedef and Type Aliases Program!
+------------------------------------------------
+Name = John Doe
+Age = 35
+The price for Pizza is equal to 12.77
