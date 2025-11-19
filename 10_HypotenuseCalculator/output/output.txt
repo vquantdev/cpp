@@ -9,4 +9,6 @@ a   c
 |    \
 |__b__\
 
-Enter the length of side 'A': 
+Enter the length of side 'A': 5
+Enter the length of side 'B': 13
+The hypotenuse 'C' = 13.9284
