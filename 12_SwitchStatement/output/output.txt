@@ -1,0 +1,3 @@
+Welcome to the Switch Statement Program!
+----------------------------------------
+Enter the month (1 - 12): 
