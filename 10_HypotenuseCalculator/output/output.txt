@@ -1,0 +1,12 @@
+Welcome to the Hypotenuse Calculator Program!
+---------------------------------------------
+Given a right angled triangle, find the hypotenuse 'C'. 
+
+|\
+| \
+|  \
+a   c
+|    \
+|__b__\
+
+Enter the length of side 'A': 
