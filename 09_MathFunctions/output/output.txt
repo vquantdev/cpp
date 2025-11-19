@@ -1,0 +1,31 @@
+Welcome to the Math Functions Program!
+--------------------------------------
+[1] Find the maximum value
+std::max(3, 4) = 4
+--------------------------------------
+[2] Find the minimum number
+std::min(3, 4) = 3
+--------------------------------------
+[3] Raise a number 'A' to a power of 'B'
+pow(3, 4) = 81
+--------------------------------------
+[4] Find a square root of a number
+sqrt(3) = 1.73205
+--------------------------------------
+[5] Find an absolute value of a number
+abs(-4) = 4
+--------------------------------------
+[6] Round a number
+round(3.4999) = 3
+round(3.5001) = 4
+round(3.5999) = 4
+--------------------------------------
+[7] Round up a number
+ceil(3.0001) = 4
+ceil(3.5001) = 4
+ceil(3.5999) = 4
+--------------------------------------
+[8] Round down a number
+floor(7.0001) = 7
+floor(7.5555) = 7
+floor(7.9999) = 7
