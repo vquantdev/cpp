@@ -1,0 +1,8 @@
+Welcome to the User Input Program!
+----------------------------------
+What's your name?: Bro
+How old are you?: 21
+Hello, Bro, you are 21 years old.
+----------------------------------
+What's your full name?: James Bond
+Your full name is James Bond
