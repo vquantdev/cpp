@@ -1,0 +1,13 @@
+Welcome to the Type Conversion Program!
+---------------------------------------
+x = 3
+y = 4.83
+z = 2
+c = d
+d = d
+---------------------------------------
+Total questions in the exam = 10
+Correctly answered questions = 8
+[1] Student score = 0%
+[2] Student score = 80%
+[3] Student score = 80%
