@@ -1,0 +1,4 @@
+Welcome to the If Statement Program!
+------------------------------------
+What's your age?: 12
+Your are not allowed to enter the club!
