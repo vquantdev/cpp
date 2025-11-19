@@ -1,0 +1,6 @@
+Welcome to the Console Calculator Program!
+------------------------------------------
+Enter a mathematical operation (+, -, *, /): /
+Enter first number: 5
+Enter second number: 3
+5 / 3 = 1.66667
