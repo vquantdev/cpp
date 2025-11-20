@@ -1,0 +1,5 @@
+Welcome to the Ternary Operator Program!
+----------------------------------------
+You pass
+The number 44 is even
+You are hungry
