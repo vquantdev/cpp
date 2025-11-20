@@ -1,0 +1,7 @@
+Welcome to the Temperature Converter Program!
+---------------------------------------------
+F = Fahrenheit
+C = Celsius
+What unit would you like to convert to?: F
+Enter the temperature in Celsius: 1000
+The temperature is 1832 F
