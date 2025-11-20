@@ -1,0 +1,6 @@
+Welcome to the Logical Operators Program!
+-----------------------------------------
+Enter the temperature: 22
+[1] The temperature is good!
+[2] The temperature is good!
+It will be rainy. Don't forget your umbrella!
