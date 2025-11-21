@@ -1,0 +1,8 @@
+Welcome to the While Loops Program!
+-----------------------------------
+What's your name?: 
+What's your name?: 
+What's your name?: 
+What's your name?: 
+What's your name?: james Bond
+You entered name: james Bond
