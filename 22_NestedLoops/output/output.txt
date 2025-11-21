@@ -1,0 +1,24 @@
+Welcome to the Nested Loops Program!
+------------------------------------
+Counting from 1 to 10, three times
+[1] 1 2 3 4 5 6 7 8 9 10 
+[2] 1 2 3 4 5 6 7 8 9 10 
+[3] 1 2 3 4 5 6 7 8 9 10 
+------------------------------------
+Print a rectangle of 'n' rows and 'm' columns using a symbol 'c'
+Enter the number of rows (n): 5
+Enter the number of columns (m): 50
+Enter a symbol (c) to print a rectangle: +
+The 5x50 rectangle with a symbol + can be seen below: 
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+------------------------------------
+Printing a rectangle (border only) of the same size
+++++++++++++++++++++++++++++++++++++++++++++++++++
++                                                +
++                                                +
++                                                +
+++++++++++++++++++++++++++++++++++++++++++++++++++
