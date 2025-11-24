@@ -1,0 +1,8 @@
+Welcome to the What Does Return Do In C++ Program!
+--------------------------------------------------
+The area of a square (5x5) = 25cm^2
+--------------------------------------------------
+The volume of a cube (4x4x4) = 64cm^3
+--------------------------------------------------
+User first name = James, last name = Bond, full name = James Bond
+--------------------------------------------------
