@@ -1,0 +1,16 @@
+Welcome to the Number Guessing Game!
+------------------------------------
+Guess a number between 1 and 100: 50
+Too low
+Guess a number between 1 and 100: 75
+Too high
+Guess a number between 1 and 100: 63
+Too low
+Guess a number between 1 and 100: 69
+Too high
+Guess a number between 1 and 100: 66
+Too high
+Guess a number between 1 and 100: 64
+Too low
+Guess a number between 1 and 100: 65
+65 is a CORRECT number! You did in 7 attempts
