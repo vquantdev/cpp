@@ -1,0 +1,24 @@
+Welcome to the Variable Scope Program!
+--------------------------------------
+[1] main(): Local number "main_function_number": 1
+--------------------------------------
+[2] main(): Print a local number by invoking a function and passing a number as an argument
+printLocalNumber(int local_number): Print number declared in "main" function: 1
+printLocalNumber(): Local variable "main_function_number": 34
+--------------------------------------
+[3] main(): Local varialbe "main_function_number": 1
+--------------------------------------
+[4] main(): Global variable "global_varialbe": 83
+--------------------------------------
+[5] main(): Print a global variable by invoking a function
+printGlobalNumber(): Global varialbe "global_varialbe": 83
+printGlobalNumber(): Change the global varialbe "global_varialbe" by adding 77 to it'printGlobalNumber(): Global varialbe "global_varialbe": 160
+--------------------------------------
+[6] main(): Global variable "global_varialbe": 160
+--------------------------------------
+[7] main(): Invoke a function and ask to print a global variable instead of a local one
+printWhatNumber(printGlobal=true): "::global_varialbe": 160
+--------------------------------------
+[7] main(): Invoke a function and ask to print its local variable
+printWhatNumber(printGlobal=false): "global_varialbe": 22
+--------------------------------------
