@@ -1,0 +1,3 @@
+Welcome to the Random Event Generator Program!
+----------------------------------------------
+Today we are going to a restaurant!
