@@ -1,0 +1,83 @@
+Welcome to the Banking Program!
+-------------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+1
+----------------------------
+Current balance = $0.00
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+2
+How much would you like to deposit: 
+23
+----------------------------
+Current balance = $23.00
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+2
+How much would you like to deposit: 
+-100
+That's not a valid amount to deposit!
+----------------------------
+Current balance = $23.00
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+3
+How much would you like to withdraw: 
+0
+That's not a valid amount to withdraw!
+----------------------------
+Current balance = $23.00
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+3
+How much would you like to withdraw: 
+10000
+You don't have enough money in your account to withdraw this amount!
+----------------------------
+Current balance = $23.00
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+3
+How much would you like to withdraw: 
+0.44
+----------------------------
+Current balance = $22.56
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+1
+----------------------------
+Current balance = $22.56
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+2
+How much would you like to deposit: 
+10.01
+----------------------------
+Current balance = $32.57
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+3
+How much would you like to withdraw: 
+1.23
+----------------------------
+Current balance = $31.34
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+1
+----------------------------
+Current balance = $31.34
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+4 pizza
+Invalid choice
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+0
+Invalid choice
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+1
+----------------------------
+Current balance = $31.34
+----------------------------
+### Select operation: 1-Balance, 2-Deposit, 3-Withdraw, 4-Exit: 
+4
+Thanks for visiting our bank!
