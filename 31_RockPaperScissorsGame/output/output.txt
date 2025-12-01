@@ -1,0 +1,29 @@
+Welcome to the Rock-Paper-Scissors Game Program!
+------------------------------------------------
+Enter 'r' for Rock, 'p' for Paper, or 's' for Scissors: r
+Your choice: Rock
+Computer choice: Paper
+Game result: Computer wins!
+
+Enter 'y' to play again, or anything else to exit the game: y
+------------------------------------------------
+Enter 'r' for Rock, 'p' for Paper, or 's' for Scissors: p
+Your choice: Paper
+Computer choice: Scissors
+Game result: Computer wins!
+
+Enter 'y' to play again, or anything else to exit the game: y
+------------------------------------------------
+Enter 'r' for Rock, 'p' for Paper, or 's' for Scissors: r
+Your choice: Rock
+Computer choice: Paper
+Game result: Computer wins!
+
+Enter 'y' to play again, or anything else to exit the game: y
+------------------------------------------------
+Enter 'r' for Rock, 'p' for Paper, or 's' for Scissors: s
+Your choice: Scissors
+Computer choice: Paper
+Game result: You win!
+
+Enter 'y' to play again, or anything else to exit the game: e
