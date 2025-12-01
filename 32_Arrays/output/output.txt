@@ -1,0 +1,36 @@
+------------------------------
+Welcome to the Arrays Program!
+------------------------------
+
+Car brand is: Ferrari
+Car list is: 0x16ba3ef60
+The address in memory, where an array "carsList" is located: 0x16ba3ef60
+------------------------------
+
+Print cars in carsList: 
+carsList[0] = Ford
+carsList[1] = BMW
+carsList[2] = Lambo
+------------------------------
+
+Change car with index 1 in carsList: 
+carsList[1] = "Toyota"
+------------------------------
+
+Print cars in carsList: 
+carsList[0] = Ford
+carsList[1] = Toyota
+carsList[2] = Lambo
+------------------------------
+
+Declare an empty array (size=3) and assign values later
+std::string toppings[3];
+toppings[0] = "Tomato"
+toppings[1] = "Cheese"
+toppings[2] = "Ham"
+------------------------------
+
+Print elements in "toppings" array:
+toppings[0] = Tomato
+toppings[1] = Cheese
+toppings[2] = Ham
