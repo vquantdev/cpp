@@ -1,0 +1,10 @@
+---------------------------------------------------
+Welcome to the Passing Arrays to Functions Program!
+---------------------------------------------------
+
+1. Print the sum of the prices
+
+Prices = [34.21, 88.5, 120.43, 200.01, 999.999]
+Array length = 5
+Total of all prices (sum) = $1443.15
+
