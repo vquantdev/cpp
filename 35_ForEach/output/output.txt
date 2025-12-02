@@ -1,0 +1,20 @@
+-------------------------------
+Welcome to the ForEach Program!
+-------------------------------
+
+1. Print an array of strings
+
+Student 'James'
+Student 'Mark'
+Student 'Paul'
+Student 'Johny'
+
+-------------------------------
+
+2. Print an array of integers
+
+Grade '65'
+Grade '75'
+Grade '81'
+Grade '91'
+
