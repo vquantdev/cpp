@@ -1,0 +1,30 @@
+---------------------------------------
+Welcome to the Array Iteration Program!
+---------------------------------------
+
+1. Print an array of strings
+
+std::string students[] = {"James", "Mark", "Paul"};
+sizeof(students) = 72
+sizeof(std::string) = 24
+Number of elements in array 'students' = sizeof(students) / sizeof(std::string) = 72 / 24 = 3
+
+students[0] = "James"
+students[1] = "Mark"
+students[2] = "Paul"
+
+---------------------------------------
+
+2. Print an array of chars
+
+char grades[] = {'A', 'B', 'C', 'D', 'F'};
+sizeof(grades) = 5
+sizeof(char) = 1
+Number of elements in array 'grades' = sizeof(grades) / sizeof(char) = 5 / 1 = 5
+
+grades[0] = A
+grades[1] = B
+grades[2] = C
+grades[3] = D
+grades[4] = F
+
