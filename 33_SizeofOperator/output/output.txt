@@ -1,0 +1,12 @@
+---------------------------------------
+Welcome to the Sizeof Operator Program!
+---------------------------------------
+
+sizeof(int) = sizeof(35) = 4 bytes
+sizeof(double) = sizeof(3.8) = 8 bytes
+sizeof(bool) = sizeof(false) = 1 bytes
+sizeof(char) = sizeof('X') = 1 bytes
+sizeof(string) => ADDRESS => sizeof("James Bond") = 24 bytes
+sizeof(string) => ADDRESS => sizeof("Pizza with tomato and ham") = 24 bytes
+sizeof(char[5]) = 5 bytes
+sizeof(std::string[3]) = 72 bytes
