@@ -1,0 +1,169 @@
+---------------------------------
+Welcome to the Quiz Game Program!
+---------------------------------
+
+Question #1: What is the national flower of Japan?
+A. Lotus  |  B. Rose  |  C. Cherry Blossom  |  D. Orchid
+
+Enter your answer (A, B, C, D): A
+Wrong! The correct answer is C. Cherry Blossom
+
+---------------------------------
+
+Question #2: In which city would you find Table Mountain?
+A. Cape Town  |  B. Sydney  |  C. Rio de Janeiro  |  D. Nairobi
+
+Enter your answer (A, B, C, D): B
+Wrong! The correct answer is A. Cape Town
+
+---------------------------------
+
+Question #3: Where is the Sargasso Sea located?
+A. Indian Ocean  |  B. North Atlantic Ocean  |  C. Pacific Ocean  |  D. Arctic Ocean
+
+Enter your answer (A, B, C, D): C
+Wrong! The correct answer is B. North Atlantic Ocean
+
+---------------------------------
+
+Question #4: What is the capital of New Zealand?
+A. Auckland  |  B. Wellington  |  C. Christchurch  |  D. Dunedin
+
+Enter your answer (A, B, C, D): D
+Wrong! The correct answer is B. Wellington
+
+---------------------------------
+
+Question #5: What is the first square number?
+A. 0  |  B. 1  |  C. 2  |  D. 4
+
+Enter your answer (A, B, C, D): A
+Wrong! The correct answer is B. 1
+
+---------------------------------
+
+Question #6: What is the chemical symbol for Tungsten?
+A. Tu  |  B. Wg  |  C. Tn  |  D. W
+
+Enter your answer (A, B, C, D): B
+Wrong! The correct answer is D. W
+
+---------------------------------
+
+Question #7: What is the most abundant gas in the Earth's atmosphere?
+A. Oxygen  |  B. Carbon Dioxide  |  C. Nitrogen  |  D. Hydrogen
+
+Enter your answer (A, B, C, D): C
+Correct! New score = 1
+
+---------------------------------
+
+Question #8: What is the name of the pet dinosaur on "The Flintstones"?
+A. Spike  |  B. Dino  |  C. Rex  |  D. Bruno
+
+Enter your answer (A, B, C, D): D
+Wrong! The correct answer is B. Dino
+
+---------------------------------
+
+Question #9: Who was the first person to visit the moon?
+A. Neil Armstrong  |  B. Buzz Aldrin  |  C. Yuri Gagarin  |  D. Michael Collins
+
+Enter your answer (A, B, C, D): A
+Correct! New score = 2
+
+---------------------------------
+
+Question #10: Who was Henry VIII's first wife?
+A. Anne Boleyn  |  B. Catherine of Aragon  |  C. Jane Seymour  |  D. Anne of Cleves
+
+Enter your answer (A, B, C, D): A
+Wrong! The correct answer is B. Catherine of Aragon
+
+---------------------------------
+
+Question #11: At the Battle of Waterloo, which Emperor was defeated?
+A. Julius Caesar  |  B. Napoleon Bonaparte  |  C. Alexander the Great  |  D. Kaiser Wilhelm II
+
+Enter your answer (A, B, C, D): D
+Wrong! The correct answer is B. Napoleon Bonaparte
+
+---------------------------------
+
+Question #12: In what year did The Bahamas gain independence from Great Britain?
+A. 1965  |  B. 1973  |  C. 1980  |  D. 1957
+
+Enter your answer (A, B, C, D): B
+Correct! New score = 3
+
+---------------------------------
+
+Question #13: Which member of One Direction released the debut single "Sign of the Times"?
+A. Harry Styles  |  B. Zayn Malik  |  C. Liam Payne  |  D. Louis Tomlinson
+
+Enter your answer (A, B, C, D): C
+Wrong! The correct answer is A. Harry Styles
+
+---------------------------------
+
+Question #14: Who played the "Joker" in the 2008 film "The Dark Knight"?
+A. Joaquin Phoenix  |  B. Jack Nicholson  |  C. Jared Leto  |  D. Heath Ledger
+
+Enter your answer (A, B, C, D): A
+Wrong! The correct answer is D. Heath Ledger
+
+---------------------------------
+
+Question #15: Who is the lead singer of Culture Club?
+A. Boy George  |  B. George Michael  |  C. Mick Jagger  |  D. Sting
+
+Enter your answer (A, B, C, D): D
+Wrong! The correct answer is A. Boy George
+
+---------------------------------
+
+Question #16: In the film "Finding Nemo," what type of fish is Nemo?
+A. Goldfish  |  B. Clownfish  |  C. Angelfish  |  D. Butterflyfish
+
+Enter your answer (A, B, C, D): A
+Wrong! The correct answer is B. Clownfish
+
+---------------------------------
+
+Question #17: How many stripes are on the US flag?
+A. 10  |  B. 11  |  C. 13  |  D. 15
+
+Enter your answer (A, B, C, D): B
+Wrong! The correct answer is C. 13
+
+---------------------------------
+
+Question #18: What is the only food that can never go bad?
+A. Honey  |  B. Salt  |  C. Rice  |  D. Sugar
+
+Enter your answer (A, B, C, D): C
+Wrong! The correct answer is A. Honey
+
+---------------------------------
+
+Question #19: What is the best-selling book of all time?
+A. The Bible  |  B. Don Quixote  |  C. The Quran  |  D. The Lord of the Rings
+
+Enter your answer (A, B, C, D): A
+Correct! New score = 4
+
+---------------------------------
+
+Question #20: What eight-sided shape is called?
+A. Hexagon  |  B. Pentagon  |  C. Octagon  |  D. Decagon
+
+Enter your answer (A, B, C, D): A
+Wrong! The correct answer is C. Octagon
+
+---------------------------------
+# RESULTS
+---------------------------------
+
+The number of questions: 20
+Correct answers: 4
+Success Rate: 20.00%
