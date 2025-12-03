@@ -1,0 +1,31 @@
+--------------------------------------------------
+Welcome to the Fill Array with User Input Program!
+--------------------------------------------------
+
+1. Ask User to enter elements to store in an array
+
+Enter a food you like or 'q' to quit #1: Italiano Pasta
+Enter a food you like or 'q' to quit #2: Colca-    ca-Cola Drink
+Enter a food you like or 'q' to quit #3: Hamburger
+Enter a food you like or 'q' to quit #4: q
+
+--------------------------------------------------
+
+2. Printing elements of an array
+
+Use for loop: for (int i = 0; i < size; i++) {...}
+
+foods[0] = Italiano Pasta
+foods[1] = Coca-Cola Drink
+foods[2] = Hamburger
+
+--------------------------------------------------
+
+3. Print array elements
+
+Use for loop: for (int i = 0; !foods[i].empty(); i++) {...}
+
+foods[0] = Italiano Pasta
+foods[1] = Coca-Cola Drink
+foods[2] = Hamburger
+
