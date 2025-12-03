@@ -1,0 +1,32 @@
+-----------------------------------------------
+Welcome to the Multidimensional Arrays Program!
+-----------------------------------------------
+
+1. Print elements of 2-D array
+
+cars[0][0] = Mustang
+cars[0][1] = Fiesta
+cars[0][2] = Focus
+
+cars[1][0] = Corvette
+cars[1][1] = Tahoe
+cars[1][2] = Camaro
+
+cars[2][0] = Challenger
+cars[2][1] = Stratus
+cars[2][2] = RAM
+
+
+-----------------------------------------------
+
+2. Iterate over a 2-D array
+
+The total size of 2-D array = sizeof(cars) = 216
+The size of a row = sizeof(cars[0]) = 72
+The size of an element in a row = sizeof(cars[0][0]) = sizeof(std::string) = 24
+Rows = 3
+Columns = 3
+
+ROW 1: Mustang, Fiesta, Focus
+ROW 2: Corvette, Tahoe, Camaro
+ROW 3: Challenger, Stratus, RAM
