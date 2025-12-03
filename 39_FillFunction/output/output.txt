@@ -1,0 +1,50 @@
+-------------------------------------
+Welcome to the Fill Function Program!
+-------------------------------------
+
+foods[0] = pizza
+foods[1] = pizza
+foods[2] = pizza
+foods[3] = pizza
+foods[4] = pizza
+foods[5] = pizza
+foods[6] = pizza
+foods[7] = pizza
+foods[8] = pizza
+foods[9] = pizza
+
+-------------------------------------
+
+my_foods[0] = burger
+my_foods[1] = burger
+my_foods[2] = burger
+my_foods[3] = burger
+my_foods[4] = burger
+my_foods[5] = burger
+my_foods[6] = burger
+my_foods[7] = burger
+my_foods[8] = burger
+my_foods[9] = burger
+my_foods[10] = burger
+my_foods[11] = hot dog
+my_foods[12] = hot dog
+my_foods[13] = hot dog
+my_foods[14] = hot dog
+my_foods[15] = hot dog
+my_foods[16] = hot dog
+my_foods[17] = hot dog
+my_foods[18] = hot dog
+my_foods[19] = hot dog
+my_foods[20] = hot dog
+my_foods[21] = hot dog
+my_foods[22] = cake
+my_foods[23] = cake
+my_foods[24] = cake
+my_foods[25] = cake
+my_foods[26] = cake
+my_foods[27] = cake
+my_foods[28] = cake
+my_foods[29] = cake
+my_foods[30] = cake
+my_foods[31] = cake
+my_foods[32] = cake
