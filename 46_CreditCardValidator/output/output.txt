@@ -1,0 +1,45 @@
+---------------------------------------------
+Welcome to the Credit Card Validator Program!
+---------------------------------------------
+
+Enter a credit card number to validate or 'q' to quit: 6011000990139424
+
+CARD NUMBER: 6011000990139424
+
+sumEvenDigits():
+    Even digits: 6_1_0_0_9_1_9_2_
+    Sum = 29
+
+
+sumOddDigits():
+    Odd digits: _0_1_0_9_0_3_4_4
+    Sum = 21
+
+
+The sum of even digits = 29
+The sum of odd digits = 21
+The total sum = 50
+
+The card number is VALID! (50 % 10 = 0)
+---------------------------------------------
+Enter a credit card number to validate or 'q' to quit: 1234123412341234
+
+CARD NUMBER: 1234123412341234
+
+sumEvenDigits():
+    Even digits: 1_3_1_3_1_3_1_3_
+    Sum = 32
+
+
+sumOddDigits():
+    Odd digits: _2_4_2_4_2_4_2_4
+    Sum = 24
+
+
+The sum of even digits = 32
+The sum of odd digits = 24
+The total sum = 56
+
+The card number is not VALID because 56 % 10 = 6 (must be 0)
+---------------------------------------------
+Enter a credit card number to validate or 'q' to quit: q
