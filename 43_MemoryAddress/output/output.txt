@@ -1,0 +1,10 @@
+--------------------------------------
+Welcome to the Memory Address Program!
+--------------------------------------
+
+1. Access variables' addresses
+
+Address of std::string variable = 0x16af16f50
+Address of int variable = 0x16af16f4c
+Address of bool variable = 0x16af16f4b
+
