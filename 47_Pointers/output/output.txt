@@ -1,0 +1,63 @@
+--------------------------------
+Welcome to the Pointers Program!
+--------------------------------
+
+1. Original variable
+
+std::string name = "James Bond"
+int age = 35;
+
+
+--------------------------------
+
+2. Creating a pointer to the address of a variable
+
+std::string *pname = &name;
+
+int *page = &age;
+
+
+--------------------------------
+
+Pointer to (the address of) a variable 'name' = 0x16ce4eed0
+
+Pointer to (the address of) a variable 'age' = 0x16ce4eecc
+
+
+--------------------------------
+
+3. Accessing the value stored at the address
+
+Use dereference operator *pointer
+
+The value of a variable 'name' (stored at the address 0x16ce4eed0) = James Bond
+
+The value of a variable 'age' (stored at the address 0x16ce4eecc) = 35
+
+
+--------------------------------
+
+4. Working with arrays
+
+std::string freePizzas[5] = {"pizza 1", "pizza 2", "pizza 3", "pizza 4", "pizza 5"};
+
+freePizzas is the address (0x16ce4ef30) of where the array is stored
+
+Create a pointer to an array: std::string *pfreePizzas = freePizzas;
+
+Pointer to (the address of) an array 'freePizzas' = 0x16ce4ef30
+
+The FIRST value of an array (stored at the address 0x16ce4ef30) = pizza 1
+
+Increment pointer = go to the next address: pFreePizzas++;
+
+The next value (2) the pointer pointing to (address 0x16ce4ef48) is: pizza 2
+
+The next value (3) the pointer pointing to (address 0x16ce4ef60) is: pizza 3
+
+The next value (4) the pointer pointing to (address 0x16ce4ef78) is: pizza 4
+
+The next value (5) the pointer pointing to (address 0x16ce4ef90) is: pizza 5
+
+Try to access the next value at the address 0x16ce4efa8: 
+
