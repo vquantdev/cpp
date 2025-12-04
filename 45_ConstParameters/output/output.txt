@@ -1,0 +1,21 @@
+----------------------------------------
+Welcome to the Const Parameters Program!
+----------------------------------------
+
+Original Name = James Bond
+Original Age = 25
+
+----------------------------------------
+
+1. Invoke a function to print info
+
+printInfo(): Name = Captain #1
+printInfo(): Age = 444
+
+----------------------------------------
+
+2. Invoke a function that accepts const parameters to print info
+
+printInfoConst(): Name = James Bond
+printInfoConst(): Age = 25
+
