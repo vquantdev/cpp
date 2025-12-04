@@ -1,0 +1,41 @@
+----------------------------------------------------------
+Welcome to the Pass-by-Reference VS Pass-by-Value Program!
+----------------------------------------------------------
+
+1. Swap two varialbes (cups)
+
+Before swap: cup_a = 'Coffee', cup_b = 'Green Tea'
+After swap: cup_a = 'Green Tea', cup_b = 'Coffee'
+
+----------------------------------------------------------
+
+2. Swap two variables by invoking a function (pass variables by value)
+
+main(): Address car_mom = 0x16bce2ed8
+main(): Address car_dad = 0x16bce2ec0
+
+Before swap: car_mom = 'Ford', car_dad = 'Ferrari'
+
+Invoke swap_variables_pass_by_val(car_mom, car_dad);
+
+swap_variables_pass_by_val(): Address car_mom = 0x16bce2ea8
+swap_variables_pass_by_val(): Address car_dad = 0x16bce2e90
+
+After swap: car_mom = 'Ford', car_dad = 'Ferrari'
+
+----------------------------------------------------------
+
+3. Swap two variables by invoking a function (pass variables by reference)
+
+main(): Address car_sis = 0x16bce2e78
+main(): Address car_bro = 0x16bce2e60
+
+Before swap: car_sis = 'Toyota', car_bro = 'Mazda'
+
+Invoke swap_variables_pass_by_ref(car_sis, car_bro);
+
+swap_variables_pass_by_ref(): Address car_sis = 0x16bce2e78
+swap_variables_pass_by_ref(): Address car_bro = 0x16bce2e60
+
+After swap: car_sis = 'Mazda', car_bro = 'Toyota'
+
