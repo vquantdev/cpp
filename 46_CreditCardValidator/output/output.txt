@@ -40,6 +40,6 @@ The sum of even digits = 32
 The sum of odd digits = 24
 The total sum = 56
 
-The card number is not VALID because 56 % 10 = 6 (must be 0)
+The card number is NOT VALID because 56 % 10 = 6 (must be 0)
 ---------------------------------------------
 Enter a credit card number to validate or 'q' to quit: q

@@ -74,7 +74,7 @@ int main() {
             std::cout << "The card number is VALID! (" << sum << " % 10 = 0)" << '\n';
         }
         else {
-            std::cout << "The card number is not VALID because " << sum << " % 10 = " << div << " (must be 0)\n";
+            std::cout << "The card number is NOT VALID because " << sum << " % 10 = " << div << " (must be 0)\n";
         }
         std::cout << separator << '\n';
     } while (cardNumber != "q");
