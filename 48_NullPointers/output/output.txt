@@ -1,0 +1,35 @@
+-------------------------------------
+Welcome to the Null Pointers Program!
+-------------------------------------
+
+1. Declare a pointer, while not assigning anything to it
+
+    int *pointer;
+
+Check if the 'pointer' points somewhere: 0x1a0100000d
+
+
+-------------------------------------
+
+2. Declare a pointer and assign a nullptr to it
+
+    int *pointer_2 = nullptr;
+
+Check if 'pointer_2' points somewhere: 0x0
+
+
+-------------------------------------
+
+3. Declare a variable and assign its address to a pointer
+
+    int grade = 75;
+
+    pointer_2 = &grade;
+
+Check if 'pointer_2' points somewhere: 0x16f82af44
+
+Check the value stored at the 'pointer_2' address (0x16f82af44): 75
+
+
+-------------------------------------
+
