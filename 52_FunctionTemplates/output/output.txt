@@ -1,0 +1,47 @@
+------------------------------------------
+Welcome to the Function Templates Program!
+------------------------------------------
+
+1. Determine the max int number
+
+Enter first int number: 12
+Enter second int number: 33
+The maximum of 2 int numbers (12, 33) = 33
+
+
+------------------------------------------
+
+2. Determine the max double number
+
+Enter first double number: 1.0001
+Enter second double number: 1.01
+The maximum of 2 double numbers (1.0001, 1.01) = 1.01
+
+
+------------------------------------------
+
+3. Determine the max character
+
+Enter first character: q
+Enter second character: M
+The maximum of 2 char symbols ('q', 'M') = 'q'
+
+
+------------------------------------------
+
+4. Determine the max element using template function
+
+max_template(10, 20) = 20
+
+max_template(1.99, 2.01) = 2.01
+
+max_template('A', 'a') = a
+
+max_template(10, 10.01) = 10 // 0.01 truncated because return type is 'T' (int in this case)
+
+max_template(10.01, 10) = 10.01
+
+max_template(50, 'A') = 65 // return type 'int'
+
+max_template('A', 50) = A // return type 'char'
+
