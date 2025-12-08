@@ -1,0 +1,18 @@
+-------------------------------
+Welcome to the Structs Program!
+-------------------------------
+
+1. Accessing struct's attributes
+
+Student 1 name = James Bond (24 bytes)
+Student 1 GPA = 3.77 (8 bytes)
+Student 1 is enrolled = YES (1 bytes)
+sizeof(student_1) = 40
+
+Student 2 name = Captain America
+Student 2 GPA = 3.88
+Student 2 is enrolled = NO
+
+Student 3 name = Spyder Man
+Student 3 GPA = 3.11
+Student 3 is enrolled = YES
