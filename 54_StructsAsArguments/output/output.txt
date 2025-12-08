@@ -1,0 +1,27 @@
+--------------------------------------------
+Welcome to the Structs As Arguments Program!
+--------------------------------------------
+
+1. Print car information
+
+main(): Address of car_1 = 0x16d09ef20
+printCar(): Address of a car = 0x16d09ef20
+Car name = Toyota Land Cruiser
+Car year = 1999
+Car color = Orange
+
+main(): Address of car_2 = 0x16d09eee8
+printCar(): Address of a car = 0x16d09eee8
+Car name = Ford Focus
+Car year = 2010
+Car color = Green
+
+--------------------------------------------
+
+2. Change car color
+
+printCar(): Address of a car = 0x16d09ef20
+Car name = Toyota Land Cruiser
+Car year = 1999
+Car color = Pink
+
