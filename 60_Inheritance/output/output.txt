@@ -1,0 +1,29 @@
+-----------------------------------
+Welcome to the Inheritance Program!
+-----------------------------------
+
+1. Create an object of a class 'Dog', inherited from 'Animal'
+
+Dog is alive: YES
+This animal is eating
+The dog goes woof-woof!
+
+-----------------------------------
+
+2. Create an object of a class 'Cat', inherited from 'Animal'
+
+Cat is alive: YES
+This animal is eating
+The cat goes meow-meow!
+
+-----------------------------------
+
+3. Create 'Cube' and 'Sphere' objects, inherited from the 'Shape' class
+
+Cube side = 10
+Cube area = 600
+Cube volume = 1000
+
+Sphere radius = 5
+Sphere area = 314.159
+Sphere volume = 523.598
