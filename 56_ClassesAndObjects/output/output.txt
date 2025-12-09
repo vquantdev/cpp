@@ -1,0 +1,42 @@
+-------------------------------------------
+Welcome to the Classes And Objects Program!
+-------------------------------------------
+
+1. Create an instance of a 'Human' class and print its attributes
+
+Human 1 name = James
+Human 1 occupation = Researcher
+Human 1 age = 44
+
+Human 2 name = Patrick
+Human 2 occupation = Tennis Player
+Human 2 age = 37
+
+Human 3 name = Default name
+Human 3 occupation = Default Occupation
+Human 3 age = 18
+
+-------------------------------------------
+
+2. Invoke 'Human' object's methods
+
+This person is eating
+This person is drinking
+This person is sleeping
+
+This person is eating
+This person is drinking
+This person is sleeping
+
+-------------------------------------------
+
+3. Create an instance of a Car class
+
+Car make = Ford
+Car model = Mustang
+Car year = 1969
+Car color = Black
+
+You step on the gas!
+You step on the gas!
+You step on the brakes!
