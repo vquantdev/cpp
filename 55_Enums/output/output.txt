@@ -1,0 +1,6 @@
+-----------------------------
+Welcome to the Enums Program!
+-----------------------------
+
+Day today = Day::wednesday = 3
+It's Wednesday
