@@ -1,0 +1,32 @@
+------------------------------------------
+Welcome to the Class Constructors Program!
+------------------------------------------
+
+1. Create an instance of a 'Student' class using constructors
+
+Student name = James Bond
+Student age = 22
+Student GPA = 2.45
+
+Student name = Mark Oconnor
+Student age = 33
+Student GPA = 3.1
+
+Student name = Master Yoda
+Student age = 100
+Student GPA = 3.99
+
+------------------------------------------
+
+2. Create an instance of a 'Car' class
+
+Car make = Ford
+Car model = Mustang
+Car year = 1988
+Car color = Silver
+
+Car make = Ford
+Car model = Fiesta
+Car year = 2008
+Car color = Red
+
