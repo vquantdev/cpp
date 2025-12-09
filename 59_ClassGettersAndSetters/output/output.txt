@@ -1,0 +1,19 @@
+-------------------------------------------------
+Welcome to the Class Getters and Setters Program!
+-------------------------------------------------
+
+1. Using Getter and Setter
+
+===> Call Stove::Stove() constructor
+===> Call Stove::setTemperature(int stoveTemperature) Setter
+Stove temperature = 10
+
+
+-------------------------------------------------
+
+2. Using Setter in a constructor
+
+===> Call Stove::Stove(int stoveTemperature) constructor
+===> Call Stove::setTemperature(int stoveTemperature) Setter
+Stove 2 temperature = 10
+
